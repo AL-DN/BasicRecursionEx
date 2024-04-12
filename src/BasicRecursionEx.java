@@ -1,7 +1,8 @@
-// 
+// Author: Alden Sahi
+// Date: 04/12/2024
+// Project: Basic Recursion
+// Project Description: Java implementaion calculates the nth fibonacci and factorial numbers
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class BasicRecursionEx {
 
     // caculates the factorial of any positive integer
@@ -34,7 +35,6 @@ public class BasicRecursionEx {
     }
 
     public static void main(String[] args) {
-
 
     }
 
